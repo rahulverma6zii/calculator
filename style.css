@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(to right, black, blue);
+}
+
+.col-md-6 {
+  background-image: linear-gradient(to left, blue, aqua);
+  border: 1px solid black;
+}
+h1 {
+  text-align: center;
+  font-weight: bolder;
+}
+
+input[type="button"] {
+  width: 100%;
+  background: linear-gradient(to right, black, blue);
+  color: white;
+}
+input[type="text"] {
+  width: 100%;
+}
